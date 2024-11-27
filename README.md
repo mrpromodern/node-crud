@@ -1,1 +1,1 @@
-# node-crud
+Приложение для теста Docker pSQL
